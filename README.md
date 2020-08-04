@@ -10,7 +10,7 @@ Hey everyone, I'm a 17 year old high school student😀 that has a passion for l
 In addition to coding, I like to share🗣️ my knowledge with others and inspire others to learn. I do this by:
 
 * teaching🏫 [computer science at my school](https://compscikids.net/)
-* helping organize and lead hackathons💻 - [RALLYtoUS](http://rallyto.us/), [Teens Take On COVID](https://teens-take-on-covid.devpost.com/), & [Code211](https://code211.org/)
+* helping organize and lead hackathons💻 - [Teens Take On COVID](https://teens-take-on-covid.devpost.com/), & [Code211](https://code211.org/)
 * posting education content🧮 on [Medium](https://medium.com/@ashayp22) and [YouTube](https://www.youtube.com/channel/UCC-lrzuSt77LJjqa7bOCYjw)
 * keeping my software👐 [open-source](https://github.com/ashayp22/)
 
