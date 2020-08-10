@@ -18,5 +18,7 @@ I am looking for ways to improve⬆️ my technical and interpersonal skills whi
 
 #### Check out more➕
 
-* [Website](http://ashayp.com/)
+##### My Stuff
+
+* [Personal Website](http://ashayp.com/)
 * [LinkedIn](https://www.linkedin.com/in/ashay-parikh-a0621619a/)
