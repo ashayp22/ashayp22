@@ -6,7 +6,7 @@
 
 # Who am I?
 
-Hey everyone, I'm a 17 year old high school student😀 that has a passion for learning📖. Having started my journey 4 years ago, I now develop full-stack apps for web🕸️ and mobile📱 platforms. Currently, I stopped learning how to develop and apply AI/ML🧠 models and have shifted my attention towards learning C++.
+Hey everyone, I'm a 17 year old high school student that has a passion for learning📖. Having started my journey 4 years ago, I now develop full-stack apps for web🕸️ and mobile📱 platforms. Currently, I stopped learning how to develop and apply AI/ML🧠 models and have shifted my attention towards learning C++.
 
 In addition to coding, I like to share🗣️ my knowledge with others and inspire others to learn. I do this by:
 
