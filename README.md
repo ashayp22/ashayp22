@@ -6,7 +6,9 @@
 
 # Who am I?
 
-Hey everyone, I'm a 17 year old high school student that has a passion for learning. Having started my journey 4 years ago, I now develop full-stack apps for web and mobile platforms. Currently, I stopped learning how to develop and apply AI/ML models and have shifted my attention towards developing the [most collaborative, fun review game for students](http://kontest.us/).
+Greetings🖖! I am a freshman in the B.S. in Computer Science program at the University of Illinois at Urbana-Champaign. My main passion is creating robust, appealing, and reliable software that put smiles on people's faces. 
+
+I mainly work with web development and artificial intelligence/machine learning, but I have also built iOS apps, 2D/3D games, bots, and mathematical simulations. Currently, I am in the process of promoting [Kontest](http://kontest.us/), a collaborative review game for students and teachers.
 
 In addition to coding, I like to share my knowledge with others and inspire others to learn. I do this by:
 
@@ -15,7 +17,7 @@ In addition to coding, I like to share my knowledge with others and inspire othe
 * posting educational content🧮 on [Medium](https://medium.com/@ashayp22) and [YouTube](https://www.youtube.com/channel/UCC-lrzuSt77LJjqa7bOCYjw)
 * keeping my software👐 [open-source](https://github.com/ashayp22/)
 
-I am looking for ways to improve my technical and interpersonal skills while contributing to something bigger than myself. Please reach out if such an opportunity exists for me!
+I am looking for ways to improve my technical and business skills while contributing to something bigger than myself. Please reach out if such an opportunity exists for me!
 
 # My Links
 
