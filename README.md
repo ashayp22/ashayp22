@@ -4,6 +4,60 @@
 **ashayp22/ashayp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<html>
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Web</th>
+      <th align="center">Mobile</th>
+      <th align="center">AI/ML</th>
+      <th align="center">Databases</th>
+      <th align="center">Cloud</th>
+      <th align="center">Management</th>
+    </tr>
+    
+    <tr>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</html>
+
 # Who am I?
 
 Greetings🖖! I am a freshman in the B.S. in Computer Science program at the University of Illinois at Urbana-Champaign. **My main passion is creating robust, appealing, and reliable software that put smiles on people's faces.** 
