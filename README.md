@@ -9,7 +9,6 @@
       <th align="center">Cloud</th>
       <th align="center">Management</th>
     </tr>
-    
     <tr>
       <td>
         <ul>
