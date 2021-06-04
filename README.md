@@ -41,8 +41,6 @@ In addition to coding, I like to share my knowledge with others and inspire othe
 
 I am looking for ways to improve my technical and interpersonal skills while contributing to something bigger than myself. Please reach out if such an opportunity exists for me!
 
-# Technologies
-
 <br />
 <table>
   <tbody>
