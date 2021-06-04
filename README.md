@@ -23,57 +23,6 @@ I am looking for ways to improve my technical and interpersonal skills while con
 
 | Web |  Mobile | AI/ML  | Databases | Cloud | Collaboration & Management |
 
-<table>
-  <tbody>
-    <tr>
-      <th align="center">Web</th>
-      <th align="center">Mobile</th>
-      <th align="center">AI/ML</th>
-      <th align="center">Databases</th>
-      <th align="center">Cloud</th>
-      <th align="center">Management</th>
-    </tr>
-    
-    <tr>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 # My Links
 
