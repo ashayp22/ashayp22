@@ -51,6 +51,7 @@ I am looking for ways to improve my technical and interpersonal skills while con
       <th align="center">Web</th>
       <th align="center">Mobile</th>
       <th align="center">AI/ML</th>
+      <th align="center">Game</th>
       <th align="center">Databases</th>
       <th align="center">Cloud</th>
       <th align="center">Management</th>
@@ -76,6 +77,13 @@ I am looking for ways to improve my technical and interpersonal skills while con
           <li>Keras</li>
           <li>PyTorch</li>
           <li>OpenCV</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>C#</li>
+          <li>Java</li>
+          <li>Unity</li>
         </ul>
       </td>
       <td>
