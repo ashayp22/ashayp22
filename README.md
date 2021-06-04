@@ -78,7 +78,7 @@ I am looking for ways to improve my technical and interpersonal skills while con
           <li>PyTorch</li>
           <li>OpenCV</li>
           <li>Jupyter Notebook</li>
-          <li>Tensorflow.js</li>
+          <li>TensorFlow.js</li>
         </ul>
       </td>
       <td>
