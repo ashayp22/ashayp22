@@ -40,7 +40,7 @@ I am looking for ways to improve my technical and interpersonal skills while con
           <li>Bootstrap</li>
           <li>React</li>
           <li>Node.js, Express.js</li>
-          <li>Python</li>
+          <li>Python, Flask</li>
         </ul>
       </td>
       <td>
