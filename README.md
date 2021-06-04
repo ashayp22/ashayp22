@@ -4,29 +4,6 @@
 <!--
 **ashayp22/ashayp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<br />
-<p align="center">
-  <a href="">
-    <img src="images/logo.png" alt="Logo" width="135" height="135">
-  </a>
-
-  <h3 align="center">Recogg</h3>
-
-  <p align="center">
-    The first-ever AI-driven, multi-platform, and scalable attendance system
-    <br />
-    <a href="https://github.com/ashayp22/Recogg"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://drive.google.com/file/d/1RIYtdJydTC6Voq9BGmnX6ocfJt22Cyct/view?usp=sharing">View Demo</a>
-    ·
-    <a href="https://github.com/ashayp22/Recogg/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ashayp22/Recogg/issues">Request Feature</a>
-  </p>
-</p>
-
 # Who am I?
 
 Greetings🖖! I am a freshman in the B.S. in Computer Science program at the University of Illinois at Urbana-Champaign. **My main passion is creating robust, appealing, and reliable software that put smiles on people's faces.** 
