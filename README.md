@@ -22,6 +22,7 @@ I am looking for ways to improve my technical and interpersonal skills while con
 # Technologies
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashayp22&count_private=true&show_icons=true&theme=tokyonight&line_height=33&hide_rank=false)](https://github.com/ashayp22?tab=repositories&q=&type=public&language=)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashayp22&count_private=true&theme=onedark&line_height=30&hide=Java&layout=default)](https://github.com/ashayp22?tab=repositories&q=&type=source&language=)
 
 # My Links
 
