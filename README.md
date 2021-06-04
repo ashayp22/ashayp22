@@ -21,6 +21,16 @@ I am looking for ways to improve my technical and interpersonal skills while con
 
 # Technologies
 
+## Web
+
+## Mobile
+
+## Game
+
+## Artificial Intelligence
+
+## Collaboration & Management
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
