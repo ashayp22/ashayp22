@@ -56,38 +56,46 @@ I am looking for ways to improve my technical and interpersonal skills while con
     <tr>
       <td>
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+          <li>HTML/CSS/JavaScript</li>
+          <li>Bootstrap</li>
+          <li>React</li>
+          <li>Node.js</li>
+          <li>Express.js</li>
+          <li>Python</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+          <li>Swift</li>
+          <li>Java</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+          <li>Keras</li>
+          <li>PyTorch</li>
+          <li>OpenCV</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+          <li>SQL</li>
+          <li>MongoDB</li>
+          <li>Firebase</li>
+          <li>DynamoDB</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+          <li>AWS</li>
+          <li>DigitalOcean</li>
+          <li>Heroku</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+          <li>Figma</li>
+          <li>Trello</li>
         </ul>
       </td>
     </tr>
