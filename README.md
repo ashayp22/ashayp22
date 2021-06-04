@@ -56,11 +56,9 @@ I am looking for ways to improve my technical and interpersonal skills while con
     <tr>
       <td>
         <ul>
-          <li>HTML/CSS/JavaScript</li>
           <li>Bootstrap</li>
           <li>React</li>
-          <li>Node.js</li>
-          <li>Express.js</li>
+          <li>Node.js, Express.js</li>
           <li>Python</li>
         </ul>
       </td>
