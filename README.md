@@ -21,19 +21,9 @@ I am looking for ways to improve my technical and interpersonal skills while con
 
 # Technologies
 
-## Web
-
-## Mobile
-
-## Game
-
-## Artificial Intelligence
-
-## Collaboration & Management
-
-| Web |  Mobile | Game  | AI/ML | Collaboration & Management |
+| Web |  Mobile | AI/ML  | Databases | Cloud | Collaboration & Management |
 | ------------- | ------------- | ------------- | ------------- | -------------
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| <ul><li>HTML/CSS/JavaScript</li><li>Bootstrap</li><li>React</li><li>Firebase</li><li>MySQL</li></ul>  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
 
