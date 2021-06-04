@@ -22,9 +22,45 @@ I am looking for ways to improve my technical and interpersonal skills while con
 # Technologies
 
 | Web |  Mobile | AI/ML  | Databases | Cloud | Collaboration & Management |
-| ------------- | ------------- | ------------- | ------------- | -------------
-| <ul><li>HTML/CSS/JavaScript</li><li>Bootstrap</li><li>React</li><li>Firebase</li><li>MySQL</li></ul>  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Web</th>
+      <th align="center">Mobile</th>
+      <th align="center">AI/ML</th>
+      <th align="center">Databases</th>
+      <th align="center">Cloud</th>
+      <th align="center">Management</th>
+      
+    </tr>
+    <tr>
+      <td>col 3 is</td>
+      <td align="center">right-aligned</td>
+      <td align="right">$1600</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td align="center">centered</td>
+      <td align="right">$12</td>
+    </tr>
+    <tr>
+      <td>zebra stripes</td>
+      <td align="center">are neat</td>
+      <td align="right">$1</td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+      <td align="center">See the list</td>
+      <td align="right">from the first column</td>
+    </tr>
+  </tbody>
+</table>
 
 
 # My Links
