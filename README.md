@@ -46,7 +46,9 @@ I am looking for ways to improve my technical and interpersonal skills while con
       <td>
         <ul>
           <li>Swift</li>
+          <li>SwiftUI</li>
           <li>Java</li>
+          <li>JavaFX</li>
         </ul>
       </td>
       <td>
