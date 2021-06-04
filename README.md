@@ -43,7 +43,7 @@ I am looking for ways to improve my technical and interpersonal skills while con
 
 # Technologies
 
-<html>
+<br />
 <table>
   <tbody>
     <tr>
@@ -95,7 +95,6 @@ I am looking for ways to improve my technical and interpersonal skills while con
     </tr>
   </tbody>
 </table>
-</html>
 
 # My Links
 
