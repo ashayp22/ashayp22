@@ -23,7 +23,6 @@ I am looking for ways to improve my technical and interpersonal skills while con
 
 | Web |  Mobile | AI/ML  | Databases | Cloud | Collaboration & Management |
 
-```
 <table>
   <tbody>
     <tr>
@@ -62,7 +61,6 @@ I am looking for ways to improve my technical and interpersonal skills while con
     </tr>
   </tbody>
 </table>
-```
 
 # My Links
 
