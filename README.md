@@ -31,18 +31,11 @@ I am looking for ways to improve my technical and interpersonal skills while con
 
 ## Collaboration & Management
 
-![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat&logo=MySQL)
-![ReactJS](https://img.shields.io/badge/-React-ffffff?style=flat&logo=React&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js&logoColor=339933)
-![NPM](https://img.shields.io/badge/-NPM-ffffff?style=flat&logo=npm&logoColor=339933)
-![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=339933)
-![Firebase](https://img.shields.io/badge/-Firebase-ffffff?style=flat&logo=firebase&logoColor=FCC624)
-![MongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb&logoColor=FCC624)
-![Postman](https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=postman&logoColor=F05032)
-![Express](https://img.shields.io/badge/-Express-ffffff?style=flat&logo=express&logoColor=339933)
+| Web |  Mobile | Game  | AI/ML | Collaboration & Management |
+| ------------- | ------------- | ------------- | ------------- | -------------
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
+
 
 # My Links
 
