@@ -4,59 +4,27 @@
 **ashayp22/ashayp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<html>
-<table>
-  <tbody>
-    <tr>
-      <th align="center">Web</th>
-      <th align="center">Mobile</th>
-      <th align="center">AI/ML</th>
-      <th align="center">Databases</th>
-      <th align="center">Cloud</th>
-      <th align="center">Management</th>
-    </tr>
-    
-    <tr>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</html>
+<br />
+<p align="center">
+  <a href="">
+    <img src="images/logo.png" alt="Logo" width="135" height="135">
+  </a>
+
+  <h3 align="center">Recogg</h3>
+
+  <p align="center">
+    The first-ever AI-driven, multi-platform, and scalable attendance system
+    <br />
+    <a href="https://github.com/ashayp22/Recogg"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://drive.google.com/file/d/1RIYtdJydTC6Voq9BGmnX6ocfJt22Cyct/view?usp=sharing">View Demo</a>
+    ·
+    <a href="https://github.com/ashayp22/Recogg/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ashayp22/Recogg/issues">Request Feature</a>
+  </p>
+</p>
 
 # Who am I?
 
