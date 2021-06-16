@@ -25,7 +25,7 @@ Some of the projects that I am most proud of!
 
 - [Recogg](https://github.com/ashayp22/Recogg) - Records classroom/club attendance in seconds using Facial Recognition (AWS), Raspberry Pi, Camera Module, and Web Interface. Created for 7 week summer CS internship in 2020.
 
-- [Word Search Solver](https://github.com/ashayp22/WordSearchSolver) - A website that uses a Convolutional Neural Network (Keras) and OpenCV to solve word search puzzles. Won 2nd place at the district level for the Congressional App Challenge 2019/2020.
+- [Word Search Solver](https://github.com/ashayp22/WordSearchSolver) - A website that uses a Convolutional Neural Network (Keras) and OpenCV to solve word search puzzles. Won 2nd place at the district level for the Congressional App Challenge 2019!
 
 - [Calculus Cracker](https://github.com/ashayp22/Calculus-Cracker) - A website that uses Segmentation, Parsing, and a Convolutional Neural Network (Keras + OpenCV) trained on a dataset of numbers, letters, and Greek letters to solve handwritten calculus problems. Created as a first semester final project during my HS junior year.
 
@@ -70,6 +70,8 @@ Some of the projects that I am most proud of!
 - [Physics Simulations and Games](https://github.com/ashayp22/Physics-Simulations) - These are some physics simulations that I started to create while taking AP Physics 1 and 2 for my classmates. There is a Vector conversion website, Parallel Plates (Electrostatics) simulation, and Right Hand Rule (Magnetism) game.
 
 # Miscellaneous
+
+- [EZ Pantry](https://github.com/EZ-Pantry) - iOS app that helps food pantries keep track of inventory and serve students and families. Won the [2020 Congressional App Challenge!](https://www.congressionalappchallenge.us/20-IL08)
 
 - [Thin Lines](https://github.com/ashayp22/Thin-Lines) - Fun Graphy Theory game available on the iOS app store! Create the thinnest path in a basic graph to stay alive and earn points. Made using Dijkstra's algorithm.
 
