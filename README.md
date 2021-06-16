@@ -56,7 +56,7 @@ Some of the projects that I am most proud of!
 
 - [CSK Parent Portal](https://github.com/Comp-Sci-Kids/CSKPortal) - A website that allows parents to register kids for after-school CS tutoring sessions. This is currently in production to 40+ users. Created using React, Node.js, MongoDB, and SQL.
 
-- [COVID-HEAL](https://github.com/ashayp22/COVID-HEAL) - Website for COVID-19 News/Statistics, Face Touching AI, and more. It won "Efficient Remote Working under Remote Working & Education" in the [EUvsVirus Hackathon 2020](https://www.euvsvirus.org/results/).
+- [COVID-HEAL](https://github.com/ashayp22/COVID-HEAL) - Website for COVID-19 News/Statistics, Face Touching AI, and more. It won "Efficient Remote Working under Remote Working & Education" in the [international EUvsVirus Hackathon 2020](https://www.euvsvirus.org/results/).
 
 - [3D Epicycles](https://github.com/ashayp22/3d-epicycles) - Uses the Discrete Fourier Transform in JavaScript to draw any 3D shape in a matter of seconds. You can draw 3D objects ranging from simple cubes and cones to complex goldfish, ice cream cones, and dragons.
 
