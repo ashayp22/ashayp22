@@ -20,7 +20,7 @@ In addition to coding, I like to share my knowledge with others and inspire othe
 
 Some of the projects that I am most proud of!
 
-## Deep Learning
+## Deep Learning 🧠
 
 - [Recogg](https://github.com/ashayp22/Recogg) - Records classroom/club attendance in seconds using Facial Recognition (AWS), Raspberry Pi, Camera Module, and Web Interface. Created for 7 week summer CS internship in 2020.
 
@@ -42,7 +42,7 @@ Some of the projects that I am most proud of!
 
 - [Logistic Regression with MNIST](https://github.com/ashayp22/Logistic-Regression-with-MNIST) - Using logistic regression and python, a classifier for the MNIST database is made. Written using Numpy and SciPy.
 
-# Genetic Algorithms
+# Genetic Algorithms 🧬
 
 - [AshayNEAT](https://github.com/ashayp22/AshayNEAT) - My version of the NEAT (neuroevolution of augmenting topologies) algorithm in multiple programming languages. Used to create AI that can beat video games. It has been featured in videos, a hackathon winning project, and AP CS A final project.
 
@@ -56,7 +56,7 @@ Some of the projects that I am most proud of!
 
 - [The Knapsack Game](https://github.com/ashayp22/The-Knapsack-Game) - An iOS game based on the Knapsack problem (combinatorial optimization). 
 
-# Websites
+# Websites 🌐
 
 - [CSK Parent Portal](https://github.com/Comp-Sci-Kids/CSKPortal) - A website that allows parents to register kids for after-school CS tutoring sessions. This is currently in production to 40+ users. 
 
@@ -68,7 +68,7 @@ Some of the projects that I am most proud of!
 
 - [Physics Simulations and Games](https://github.com/ashayp22/Physics-Simulations) - These are some physics simulations that I started to create while taking AP Physics 1 and 2 for my classmates. There is a Vector conversion website, Parallel Plates (Electrostatics) simulation, and Right Hand Rule (Magnetism) game.
 
-# Miscellaneous
+# Miscellaneous 💡
 
 - [EZ Pantry](https://github.com/EZ-Pantry) - iOS app that helps food pantries keep track of inventory and serve students and families. Won the [2020 Congressional App Challenge!](https://www.congressionalappchallenge.us/20-IL08)
 
