@@ -28,13 +28,9 @@ Some of the projects that I am most proud of!
 
 - [Calculus Cracker](https://github.com/ashayp22/Calculus-Cracker) - A website that uses Segmentation, Parsing, and a Convolutional Neural Network (Keras + OpenCV) trained on a dataset of numbers, letters, and Greek letters to solve handwritten calculus problems. Created as a first semester final project during my HS junior year.
 
-- [GrinAI](https://github.com/ashayp22/HackSTL-2019) - Detects grins on a human face using a Haar Cascade and Convolutional Neural Network (Keras + OpenCV). Includes a Python Twitter Bot that tweets jokes if a person is not smiling in a picture.
-
 - [Image Captioning](https://github.com/ashayp22/Image-Captioning) - A full deep learning pipeline that generates captions for images using a CNN encoder and RNN decoder (PyTorch). 
 
-- [Predicting Student Performance](https://github.com/ashayp22/Student-Performance-Random-Forest) - Uses a Random Decision Forest to determine if a correlation exists between student/parent activity and student grades.
-
-- [Air Notability](https://github.com/ashayp22/Air-Notability-with-ML) - Uses a Image Processing and a custom Convolutional Neural Network to detects handwritten drawings in the air. 
+- [Air Notability](https://github.com/ashayp22/Air-Notability-with-ML) - Uses Image Processing and Convolutional Neural Network (>98% accuracy) to detect mimicked handwritting in the air. 
 
 - [2D SLAM](https://github.com/ashayp22/SLAM) - Implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world. Used for tracking the location of a robot in realtime and identifiying landmarks in its path.
 
