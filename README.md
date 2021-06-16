@@ -105,60 +105,53 @@ Some of the projects that I am most proud of!
 
 ## Deep Learning
 
-[Recogg](https://github.com/ashayp22/Recogg) - Records classroom/club attendance in seconds using Facial Recognition (AWS), Raspberry Pi, Camera Module, and Web Interface. Created for 7 week summer CS internship in 2020
+- [Recogg](https://github.com/ashayp22/Recogg) - Records classroom/club attendance in seconds using Facial Recognition (AWS), Raspberry Pi, Camera Module, and Web Interface. Created for 7 week summer CS internship in 2020
 
-[Word Search Solver](https://github.com/ashayp22/WordSearchSolver) - A website that uses a Convolutional Neural Network (Keras) and OpenCV to solve word search puzzles. Won 2nd place at the district level for the Congressional App Challenge 2019/2020.
+- [Word Search Solver](https://github.com/ashayp22/WordSearchSolver) - A website that uses a Convolutional Neural Network (Keras) and OpenCV to solve word search puzzles. Won 2nd place at the district level for the Congressional App Challenge 2019/2020.
 
-[Calculus Cracker](https://github.com/ashayp22/Calculus-Cracker) - A website that uses Segmentation, Parsing, and a Convolutional Neural Network (Keras + OpenCV) trained on a dataset of numbers, letters, and Greek letters to solve handwritten calculus problems. Created as a first semester final project during my HS junior year.
+- [Calculus Cracker](https://github.com/ashayp22/Calculus-Cracker) - A website that uses Segmentation, Parsing, and a Convolutional Neural Network (Keras + OpenCV) trained on a dataset of numbers, letters, and Greek letters to solve handwritten calculus problems. Created as a first semester final project during my HS junior year.
 
-[GrinAI](https://github.com/ashayp22/HackSTL-2019) - Detects grins on a human face using a Haar Cascade and Convolutional Neural Network (Keras + OpenCV). Includes a Python Twitter Bot that tweets jokes if a person is not smiling in a picture.
+- [GrinAI](https://github.com/ashayp22/HackSTL-2019) - Detects grins on a human face using a Haar Cascade and Convolutional Neural Network (Keras + OpenCV). Includes a Python Twitter Bot that tweets jokes if a person is not smiling in a picture.
 
-[Image Captioning](https://github.com/ashayp22/Image-Captioning) - A full deep learning pipeline that generates captions for images using a CNN encoder and RNN decoder (PyTorch). 
+- [Image Captioning](https://github.com/ashayp22/Image-Captioning) - A full deep learning pipeline that generates captions for images using a CNN encoder and RNN decoder (PyTorch). 
 
-[Predicting Student Performance](https://github.com/ashayp22/Student-Performance-Random-Forest) - Uses a Random Decision Forest to determine if a correlation exists between student/parent activity and student grades.
+- [Predicting Student Performance](https://github.com/ashayp22/Student-Performance-Random-Forest) - Uses a Random Decision Forest to determine if a correlation exists between student/parent activity and student grades.
 
-[Air Notability](https://github.com/ashayp22/Air-Notability-with-ML) - Uses a Image Processing and a custom Convolutional Neural Network to detects handwritten drawings in the air. 
+- [Air Notability](https://github.com/ashayp22/Air-Notability-with-ML) - Uses a Image Processing and a custom Convolutional Neural Network to detects handwritten drawings in the air. 
 
-[SLAM](https://github.com/ashayp22/SLAM) - Implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world. Used for trackign the location of a robot in realtime and identifiying landmarks in its path.
+- [2D SLAM](https://github.com/ashayp22/SLAM) - Implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world. Used for trackign the location of a robot in realtime and identifiying landmarks in its path.
 
-[Facial Keypoint Detection](https://github.com/ashayp22/Facial-Keypoint-Detection) - Full deep learning pipeline that performs facial keypoint detection using PyTorch.
+- [Smart Draw](https://github.com/ashayp22/Smart-Draw) - An iOS game where you try to create drawings that an AI can guess at. If you draw well enough, you earn points!
 
-[Smart Draw](https://github.com/ashayp22/Smart-Draw) - An iOS game where you try to create drawings that an AI can guess at. If you draw well enough, you earn points!
-
-[Logistic Regression with MNIST](https://github.com/ashayp22/Logistic-Regression-with-MNIST) - Using logistic regression and python, a classifier for the MNIST database is made. Written using Numpy and Scipy.
+- [Logistic Regression with MNIST](https://github.com/ashayp22/Logistic-Regression-with-MNIST) - Using logistic regression and python, a classifier for the MNIST database is made. Written using Numpy and Scipy.
 
 # Genetic Algorithms
 
-[AshayNEAT](https://github.com/ashayp22/AshayNEAT) - My version of the NEAT (neuroevolution of augmenting topologies) algorithm in multiple programming languages. Used to create AI that can beat video games. It has been featured in videos, a hackathon winning project, and AP CS A final project.
+- [AshayNEAT](https://github.com/ashayp22/AshayNEAT) - My version of the NEAT (neuroevolution of augmenting topologies) algorithm in multiple programming languages. Used to create AI that can beat video games. It has been featured in videos, a hackathon winning project, and AP CS A final project.
 
-[Traveling Salesman](https://github.com/ashayp22/Traveling-Salesman-Genetic-Algorithm) - Solves a scaled-down version of the Traveling Salesman problem using a Genetic Algorithm.
+- [Traveling Salesman](https://github.com/ashayp22/Traveling-Salesman-Genetic-Algorithm) - Solves a scaled-down version of the Traveling Salesman problem using a Genetic Algorithm.
 
-[NeuronRun](https://github.com/ashayp22/NeuroRun) - Uses the Java version of [AshayNEAT](https://github.com/ashayp22/AshayNEAT) to create AI that play Coolmath's Run3 Game.
+- [NeuronRun](https://github.com/ashayp22/NeuroRun) - Uses the Java version of [AshayNEAT](https://github.com/ashayp22/AshayNEAT) to create AI that play Coolmath's Run3 Game.
 
-[Brainy Aliens](https://github.com/ashayp22/Brainy-Aliens) - An iOS game where you try to shoot AI aliens that get better at avoiding you through real-time neuroevolution. 
+- [Brainy Aliens](https://github.com/ashayp22/Brainy-Aliens) - An iOS game where you try to shoot AI aliens that get better at avoiding you through real-time neuroevolution. 
 
-[Hoop Swish](https://github.com/ashayp22/Hoop-Swish) - An iOS game where you try to make more basketball shots than your AI opponent. The AI obtains the best shot using a Genetic Algorithm. 
+- [Hoop Swish](https://github.com/ashayp22/Hoop-Swish) - An iOS game where you try to make more basketball shots than your AI opponent. The AI obtains the best shot using a Genetic Algorithm. 
 
-[The Knapsack Game](https://github.com/ashayp22/The-Knapsack-Game) - An iOS game based on the Knapsack problem (combinatorial optimization). 
+- [The Knapsack Game](https://github.com/ashayp22/The-Knapsack-Game) - An iOS game based on the Knapsack problem (combinatorial optimization). 
 
 # Websites
 
-[CSK Parent Portal](https://github.com/Comp-Sci-Kids/CSKPortal) - A website that allows parents to register kids for after-school CS tutoring sessions. This is currently in production to 40+ users. 
+- [CSK Parent Portal](https://github.com/Comp-Sci-Kids/CSKPortal) - A website that allows parents to register kids for after-school CS tutoring sessions. This is currently in production to 40+ users. 
 
-[3D Epicycles](https://github.com/ashayp22/3d-epicycles) - Uses the Discrete Fourier Transform and Epicycles to draw any 3D shape in a matter of seconds. You can draw 3D objects ranging from simple cubes and cones to complex goldfish, ice cream cones, and dragons.
+- [3D Epicycles](https://github.com/ashayp22/3d-epicycles) - Uses the Discrete Fourier Transform and Epicycles to draw any 3D shape in a matter of seconds. You can draw 3D objects ranging from simple cubes and cones to complex goldfish, ice cream cones, and dragons.
 
-[Buy or $hort](https://github.com/ashayp22/HackMIT) - Financial Literacy Game created for HackMIT 2020, a 36 hour collegiate hackathon.
+- [Buy or $hort](https://github.com/ashayp22/HackMIT) - Financial Literacy Game created for HackMIT 2020, a 36 hour collegiate hackathon.
 
-[ThinkPos](https://github.com/ashayp22/ThinkPos) - Platform for posting public quotes and messages. Uses a SQL Database, Node.js, and Bootstrap.
+- [Connect 4 Minimax](https://github.com/ashayp22/Connect4Minimax) - Play Connect 4 against an AI opponent that determines its moves using the Minimax algorithm. You can adjust a slider to obtain different search levels.
 
-[Polygon Creator](https://github.com/ashayp22/Polygon-Creator) - Create convex/concave polygons by placing points on a 2D plane! 
+- [Physics Simulations and Games](https://github.com/ashayp22/Physics-Simulations) - These are some physics simulations that I started to create while taking AP Physics 1 and 2 for my classmates. There is a Vector conversion website, Parallel Plates (Electrostatics) simulation, and Right Hand Rule (Magnetism) game.
 
-[Rube Goldbery](https://github.com/ashayp22/Rube-Goldberg-JS) - Interactive 2D Rube Goldberg created with Matter.js and Jquery.
-
-[Connect 4 Minimax](https://github.com/ashayp22/Connect4Minimax) - Play Connect 4 against an AI opponent that determines its moves using the Minimax algorithm. You can adjust a slider to obtain different search levels.
-
-[Physics Simulations and Games](https://github.com/ashayp22/Physics-Simulations) - These are some physics simulations that I started to create while taking AP Physics 1 and 2 for my classmates. There is a Vector conversion website, Parallel Plates (Electrostatics) simulation, and Right Hand Rule (Magnetism) game.
-
+# Miscellaneous
 
 # My Links
 
