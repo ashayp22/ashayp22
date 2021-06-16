@@ -74,7 +74,7 @@ Some of the projects that I am most proud of!
 
 - [Thin Lines](https://github.com/ashayp22/Thin-Lines) - Fun Graphy Theory game available on the iOS app store! Create the thinnest path in a basic graph to stay alive and earn points. Made using Dijkstra's algorithm.
 
-- [Java Projects](https://github.com/ashayp22/Java-Projects-AP-CS-A) - Some of my projects from AP CS A, including a bacteria simulation, rock paper scissors AI, and Hex (board game) AI.
+- [Java Projects](https://github.com/ashayp22/Java-Projects-AP-CS-A) - Some of my projects from AP CS A, including a bacteria simulation, rock paper scissors AI, and Hex ([board game](https://en.wikipedia.org/wiki/Hex_(board_game))) AI.
 
 - [Aimbooster Bot](https://github.com/ashayp22/aimboosterbot) - Beat the [Aimbooster](http://www.aimbooster.com/) world record using a Python autoclicker bot.
 
