@@ -14,7 +14,7 @@ In addition to coding, I like to share my knowledge with others and inspire othe
 
 * teaching🏫 [computer science at my school](https://compscikids.net/)
 * helping organize and lead hackathons💻 - [Teens Take On COVID](https://teens-take-on-covid.devpost.com/) & [Code211](https://code211.org/)
-* posting educational content🧮 on [Medium](https://medium.com/@ashayp22) and [YouTube](https://www.youtube.com/channel/UCC-lrzuSt77LJjqa7bOCYjw)
+* posting educational content🧮 with 10k+ views on [Medium](https://medium.com/@ashayp22) and [YouTube](https://www.youtube.com/channel/UCC-lrzuSt77LJjqa7bOCYjw)
 
 # Featured Projects
 
