@@ -58,11 +58,11 @@ Some of the projects that I am most proud of!
 
 ## Websites 🌐
 
-- [CSK Parent Portal](https://github.com/Comp-Sci-Kids/CSKPortal) - A website that allows parents to register kids for after-school CS tutoring sessions. This is currently in production to 40+ users. 
+- [CSK Parent Portal](https://github.com/Comp-Sci-Kids/CSKPortal) - A website that allows parents to register kids for after-school CS tutoring sessions. This is currently in production to 40+ users. Created using React, Node.js, MongoDB, and SQL.
 
-- [3D Epicycles](https://github.com/ashayp22/3d-epicycles) - Uses the Discrete Fourier Transform and Epicycles to draw any 3D shape in a matter of seconds. You can draw 3D objects ranging from simple cubes and cones to complex goldfish, ice cream cones, and dragons.
+- [3D Epicycles](https://github.com/ashayp22/3d-epicycles) - Uses the Discrete Fourier Transform in JavaScript to draw any 3D shape in a matter of seconds. You can draw 3D objects ranging from simple cubes and cones to complex goldfish, ice cream cones, and dragons.
 
-- [Buy or $hort](https://github.com/ashayp22/HackMIT) - Financial Literacy Game created for HackMIT 2020, a 36 hour collegiate hackathon.
+- [Buy or $hort](https://github.com/ashayp22/HackMIT) - Financial Literacy Game created for [HackMIT 2020](http://hackmit.com/), a 36 hour collegiate hackathon hosted by MIT.
 
 - [Connect 4 Minimax](https://github.com/ashayp22/Connect4Minimax) - Play Connect 4 against an AI opponent that determines its moves using the Minimax algorithm. You can adjust a slider to obtain different search levels.
 
