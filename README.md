@@ -48,7 +48,7 @@ Some of the projects that I am most proud of!
 
 - [Traveling Salesman](https://github.com/ashayp22/Traveling-Salesman-Genetic-Algorithm) - Solves a scaled-down version of the Traveling Salesman problem using a Genetic Algorithm.
 
-- [NeuronRun](https://github.com/ashayp22/NeuroRun) - Uses the Java version of [AshayNEAT](https://github.com/ashayp22/AshayNEAT) to create AI that play Coolmath's Run3 Game.
+- [NeuronRun](https://github.com/ashayp22/NeuroRun) - Uses the Java version of [AshayNEAT](https://github.com/ashayp22/AshayNEAT) to create AI that play [Coolmath's Run Game](https://www.coolmathgames.com/0-run-3).
 
 - [Brainy Aliens](https://github.com/ashayp22/Brainy-Aliens) - An iOS game where you try to shoot AI aliens that get better at avoiding you through real-time neuroevolution. 
 
