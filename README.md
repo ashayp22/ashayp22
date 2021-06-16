@@ -78,7 +78,7 @@ Some of the projects that I am most proud of!
 
 - [Aimbooster Bot](https://github.com/ashayp22/aimboosterbot) - Beat the [Aimbooster](http://www.aimbooster.com/) world record using a Python autoclicker bot.
 
-- [Ace the Maze](https://github.com/ashayp22/Ace-the-Maze) - An interactive Swift Playground that teaches kids about COVID-19 and coding. Created for the 2020 WWDC student challenge.
+- [Ace the Maze](https://github.com/ashayp22/Ace-the-Maze) - An interactive Swift Playground that teaches kids about COVID-19 and coding. Created for the [2020 WWDC student challenge](https://www.apple.com/newsroom/2020/06/apples-wwdc20-swift-student-challenge-winners-determined-to-shape-the-future/). 
 
 # What I use
 
