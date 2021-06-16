@@ -68,7 +68,7 @@ Some of the projects that I am most proud of!
 
 - [Physics Simulations and Games](https://github.com/ashayp22/Physics-Simulations) - These are some physics simulations that I started to create while taking AP Physics 1 and 2 for my classmates. There is a Vector conversion website, Parallel Plates (Electrostatics) simulation, and Right Hand Rule (Magnetism) game.
 
-# Miscellaneous 💡
+## Miscellaneous 💡
 
 - [EZ Pantry](https://github.com/EZ-Pantry) - iOS app that helps food pantries keep track of inventory and serve students and families. Won the [2020 Congressional App Challenge!](https://www.congressionalappchallenge.us/20-IL08)
 
