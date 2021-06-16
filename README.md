@@ -36,7 +36,7 @@ Some of the projects that I am most proud of!
 
 - [Air Notability](https://github.com/ashayp22/Air-Notability-with-ML) - Uses a Image Processing and a custom Convolutional Neural Network to detects handwritten drawings in the air. 
 
-- [2D SLAM](https://github.com/ashayp22/SLAM) - Implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world. Used for trackign the location of a robot in realtime and identifiying landmarks in its path.
+- [2D SLAM](https://github.com/ashayp22/SLAM) - Implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world. Used for tracking the location of a robot in realtime and identifiying landmarks in its path.
 
 - [Smart Draw](https://github.com/ashayp22/Smart-Draw) - An iOS game where you try to create drawings that an AI can guess at. If you draw well enough, you earn points! Made using the [Google QuickDraw Dataset](https://github.com/googlecreativelab/quickdraw-dataset) and a Fully Connected Neural Network created using Numpy and SciPy.
 
