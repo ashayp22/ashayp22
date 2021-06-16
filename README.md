@@ -30,6 +30,7 @@ I am looking for ways to improve my technical and interpersonal skills while con
       <th align="center">Databases</th>
       <th align="center">Cloud</th>
       <th align="center">Management</th>
+      <th align="center">Other</th>
     </tr>
     <tr>
       <td>
@@ -84,6 +85,12 @@ I am looking for ways to improve my technical and interpersonal skills while con
         <ul>
           <li>Figma</li>
           <li>Trello</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Excel</li>
+          <li>Wolfram Mathematica</li>
         </ul>
       </td>
     </tr>
