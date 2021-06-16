@@ -38,9 +38,9 @@ Some of the projects that I am most proud of!
 
 - [2D SLAM](https://github.com/ashayp22/SLAM) - Implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world. Used for trackign the location of a robot in realtime and identifiying landmarks in its path.
 
-- [Smart Draw](https://github.com/ashayp22/Smart-Draw) - An iOS game where you try to create drawings that an AI can guess at. If you draw well enough, you earn points! Made using the [Google QuickDraw Dataset](https://github.com/googlecreativelab/quickdraw-dataset) and a Fully Connected Neural Network created using Numpy and Scipy.
+- [Smart Draw](https://github.com/ashayp22/Smart-Draw) - An iOS game where you try to create drawings that an AI can guess at. If you draw well enough, you earn points! Made using the [Google QuickDraw Dataset](https://github.com/googlecreativelab/quickdraw-dataset) and a Fully Connected Neural Network created using Numpy and SciPy.
 
-- [Logistic Regression with MNIST](https://github.com/ashayp22/Logistic-Regression-with-MNIST) - Using logistic regression and python, a classifier for the MNIST database is made. Written using Numpy and Scipy.
+- [Logistic Regression with MNIST](https://github.com/ashayp22/Logistic-Regression-with-MNIST) - Using logistic regression and python, a classifier for the MNIST database is made. Written using Numpy and SciPy.
 
 # Genetic Algorithms
 
@@ -118,6 +118,7 @@ Some of the projects that I am most proud of!
           <li>Keras</li>
           <li>PyTorch</li>
           <li>OpenCV</li>
+          <li>SciPy</li>
           <li>Jupyter Notebook</li>
           <li>TensorFlow.js</li>
         </ul>
