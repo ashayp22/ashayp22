@@ -24,13 +24,13 @@ Some of the projects that I am most proud of!
 
 - [Recogg](https://github.com/ashayp22/Recogg) - Records classroom/club attendance in seconds using Facial Recognition (AWS), Raspberry Pi, Camera Module, and Web Interface. Created for 7 week summer CS internship in 2020.
 
-- [Word Search Solver](https://github.com/ashayp22/WordSearchSolver) - A website that uses a Convolutional Neural Network (Keras) and OpenCV to solve word search puzzles. Won 2nd place at the district level for the Congressional App Challenge 2019!
+- [Word Search Solver](https://github.com/ashayp22/WordSearchSolver) - A website that uses a CNN (Convolutional Neural Network) and OpenCV to solve word search puzzles. Won 2nd place at the district level for the Congressional App Challenge 2019!
 
-- [Calculus Cracker](https://github.com/ashayp22/Calculus-Cracker) - A website that uses Segmentation, Parsing, and a Convolutional Neural Network (Keras + OpenCV) trained on a dataset of numbers, letters, and Greek letters to solve handwritten calculus problems. Created as a first semester final project during my HS junior year.
+- [Calculus Cracker](https://github.com/ashayp22/Calculus-Cracker) - A website that uses Segmentation, Parsing, and a CNN (Keras + OpenCV) trained on a dataset of numbers, letters, and Greek letters to solve handwritten calculus problems. Created as a first semester final project during my HS junior year.
 
 - [Image Captioning](https://github.com/ashayp22/Image-Captioning) - A full deep learning pipeline that generates captions for images using a CNN encoder and RNN decoder (PyTorch). 
 
-- [Air Notability](https://github.com/ashayp22/Air-Notability-with-ML) - Uses Image Processing and Convolutional Neural Network (>98% accuracy) to detect mimicked handwritting in the air. 
+- [Air Notability](https://github.com/ashayp22/Air-Notability-with-ML) - Uses Image Segmentation, Contours, and a CNN trained on handwritten letters (>98% accuracy) to detect mimicked handwritting in the air. 
 
 - [2D SLAM](https://github.com/ashayp22/SLAM) - Implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world. Used for tracking the location of a robot in realtime and identifiying landmarks in its path.
 
