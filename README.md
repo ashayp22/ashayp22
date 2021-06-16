@@ -42,7 +42,7 @@ Some of the projects that I am most proud of!
 
 - [Logistic Regression with MNIST](https://github.com/ashayp22/Logistic-Regression-with-MNIST) - Using logistic regression and python, a classifier for the MNIST database is made. Written using Numpy and SciPy.
 
-# Genetic Algorithms 🧬
+## Genetic Algorithms 🧬
 
 - [AshayNEAT](https://github.com/ashayp22/AshayNEAT) - My version of the NEAT (neuroevolution of augmenting topologies) algorithm in multiple programming languages. Used to create AI that can beat video games. It has been featured in videos, a hackathon winning project, and AP CS A final project.
 
@@ -56,7 +56,7 @@ Some of the projects that I am most proud of!
 
 - [The Knapsack Game](https://github.com/ashayp22/The-Knapsack-Game) - An iOS game based on the Knapsack problem (combinatorial optimization). 
 
-# Websites 🌐
+## Websites 🌐
 
 - [CSK Parent Portal](https://github.com/Comp-Sci-Kids/CSKPortal) - A website that allows parents to register kids for after-school CS tutoring sessions. This is currently in production to 40+ users. 
 
