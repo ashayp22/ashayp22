@@ -73,6 +73,12 @@ Some of the projects that I am most proud of!
 
 # Miscellaneous
 
+- [Thin Lines](https://github.com/ashayp22/Thin-Lines) - Fun Graphy Theory game! Create the thinnest path in a basic graph to stay alive and earn points. Made using Dijkstra's algorithm.
+
+- [Blocky Chase](https://github.com/ashayp22/Blocky-Chase) - A.I. Maze game where you have to solve a maze before the chaser catches you. Made using a Pathfinding algorithm and Growing Tree algorithm.
+
+- [Aimbooster Bot](https://github.com/ashayp22/aimboosterbot) - Beat the [Aimbooster](http://www.aimbooster.com/) world record using a Python autoclicker bot.
+
 # What I use
 
 <br />
