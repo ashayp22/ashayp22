@@ -40,7 +40,7 @@ Some of the projects that I am most proud of!
 
 - [Smart Draw](https://github.com/ashayp22/Smart-Draw) - An iOS game where you try to create drawings that an AI can guess at. If you draw well enough, you earn points! Made using the [Google QuickDraw Dataset](https://github.com/googlecreativelab/quickdraw-dataset) and a Fully Connected Neural Network created using Numpy and SciPy.
 
-- [Logistic Regression with MNIST](https://github.com/ashayp22/Logistic-Regression-with-MNIST) - Using logistic regression and python, a classifier for the MNIST database is made. Written using Numpy and SciPy.
+- [Logistic Regression with MNIST](https://github.com/ashayp22/Logistic-Regression-with-MNIST) - Classifier for the MNIST database with >95% accuracy. Written using Numpy and SciPy.
 
 ## Genetic Algorithms, Neuroevolution 🧬
 
