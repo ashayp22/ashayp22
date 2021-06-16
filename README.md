@@ -20,7 +20,7 @@ In addition to coding, I like to share my knowledge with others and inspire othe
 
 Some of the projects that I am most proud of!
 
-## Deep Learning 🧠
+## Machine Learning, Deep Learning, Computer Vision 🧠
 
 - [Recogg](https://github.com/ashayp22/Recogg) - Records classroom/club attendance in seconds using Facial Recognition (AWS), Raspberry Pi, Camera Module, and Web Interface. Created for 7 week summer CS internship in 2020.
 
@@ -42,7 +42,7 @@ Some of the projects that I am most proud of!
 
 - [Logistic Regression with MNIST](https://github.com/ashayp22/Logistic-Regression-with-MNIST) - Using logistic regression and python, a classifier for the MNIST database is made. Written using Numpy and SciPy.
 
-## Genetic Algorithms 🧬
+## Genetic Algorithms, Neuroevolution 🧬
 
 - [AshayNEAT](https://github.com/ashayp22/AshayNEAT) - My version of the NEAT (neuroevolution of augmenting topologies) algorithm in multiple programming languages. Used to create AI that can beat video games. It has been featured in videos, a hackathon winning project, and AP CS A final project.
 
