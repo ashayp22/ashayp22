@@ -38,8 +38,6 @@ Some of the projects that I am most proud of!
 
 - [NeuronRun](https://github.com/ashayp22/NeuroRun) - Uses the Java version of [AshayNEAT](https://github.com/ashayp22/AshayNEAT) to create AI that play [Coolmath's Run Game](https://www.coolmathgames.com/0-run-3).
 
-- [Brainy Aliens](https://github.com/ashayp22/Brainy-Aliens) - An iOS game where you try to shoot AI aliens that get better at avoiding you through real-time neuroevolution. 
-
 - [Hoop Swish](https://github.com/ashayp22/Hoop-Swish) - An iOS game where you try to make more basketball shots than your AI opponent. The AI obtains the best shot using a Genetic Algorithm. 
 
 - [The Knapsack Game](https://github.com/ashayp22/The-Knapsack-Game) - An iOS game based on the Knapsack problem (combinatorial optimization). 
