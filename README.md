@@ -36,8 +36,6 @@ Some of the projects that I am most proud of!
 
 - [AshayNEAT](https://github.com/ashayp22/AshayNEAT) - My version of the NEAT (neuroevolution of augmenting topologies) algorithm in multiple programming languages. Used to create AI that can beat video games. It has been featured in videos, a hackathon winning project, and AP CS A final project.
 
-- [Traveling Salesman](https://github.com/ashayp22/Traveling-Salesman-Genetic-Algorithm) - Solves a scaled-down version of the Traveling Salesman problem using a Genetic Algorithm.
-
 - [NeuronRun](https://github.com/ashayp22/NeuroRun) - Uses the Java version of [AshayNEAT](https://github.com/ashayp22/AshayNEAT) to create AI that play [Coolmath's Run Game](https://www.coolmathgames.com/0-run-3).
 
 - [Brainy Aliens](https://github.com/ashayp22/Brainy-Aliens) - An iOS game where you try to shoot AI aliens that get better at avoiding you through real-time neuroevolution. 
