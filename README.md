@@ -89,7 +89,7 @@ Some of the projects that I am most proud of!
           <li>HTML/CSS/JavaScript</li>
           <li>Bootstrap</li>
           <li>React</li>
-          <li>Typescript</li>
+          <li>TypeScript</li>
           <li>Node.js, Express.js</li>
           <li>Python, Flask</li>
         </ul>
