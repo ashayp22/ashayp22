@@ -104,10 +104,10 @@ Some of the projects that I am most proud of!
       </td>
       <td>
         <ul>
-          <li>Keras</li>
           <li>PyTorch</li>
           <li>OpenCV</li>
           <li>SciPy</li>
+          <li>Keras</li>
           <li>Jupyter Notebook</li>
           <li>TensorFlow.js</li>
         </ul>
