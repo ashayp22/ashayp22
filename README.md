@@ -24,9 +24,9 @@ Some of the projects that I am most proud of!
 
 - [Recogg](https://github.com/ashayp22/Recogg) - Records classroom/club attendance in seconds using Facial Recognition (AWS), Raspberry Pi, Camera Module, and Web Interface. Created for 7 week summer CS internship in 2020.
 
-- [Word Search Solver](https://github.com/ashayp22/WordSearchSolver) - A website that uses a CNN (Convolutional Neural Network) and OpenCV to solve word search puzzles. Won 2nd place at the district level for the Congressional App Challenge 2019!
+- [Word Search Solver](https://github.com/ashayp22/WordSearchSolver) - A website that uses a CNN (Convolutional Neural Network) and OpenCV to help students solve word search puzzles. Won 2nd place at the district level for the Congressional App Challenge 2019!
 
-- [Calculus Cracker](https://github.com/ashayp22/Calculus-Cracker) - A website that uses Segmentation, Parsing, and a CNN (Keras + OpenCV) trained on a dataset of numbers, letters, and Greek letters to solve handwritten calculus problems. Created as a first semester final project during my HS junior year.
+- [Calculus Cracker](https://github.com/ashayp22/Calculus-Cracker) - A website that uses Segmentation, Parsing, and a CNN (Keras + OpenCV) trained on a dataset of numbers, letters, and Greek letters to help math students solve handwritten calculus problems. Created as a first semester final project during my HS junior year.
 
 - [Image Captioning](https://github.com/ashayp22/Image-Captioning) - A full deep learning pipeline that generates captions for images using a CNN encoder and RNN decoder (PyTorch).
 
@@ -44,7 +44,7 @@ Some of the projects that I am most proud of!
 
 ## Websites 🌐
 
-- [CSK Parent Portal](https://github.com/Comp-Sci-Kids/CSKPortal) - A website that allows parents to register kids for after-school CS tutoring sessions. This is currently in production to 40+ users. Created using React, Node.js, MongoDB, and SQL.
+- [CSK Parent Portal](https://github.com/Comp-Sci-Kids/CSKPortal) - A website that allows parents to register kids for after-school CS tutoring sessions. This is currently in production. Created using React, Node.js, MongoDB, and SQL.
 
 - [COVID-HEAL](https://github.com/ashayp22/COVID-HEAL) - Website for COVID-19 News/Statistics, Face Touching AI, and more. It won "Efficient Remote Working under Remote Working & Education" in the [international EUvsVirus Hackathon 2020](https://www.euvsvirus.org/results/).
 
@@ -58,7 +58,7 @@ Some of the projects that I am most proud of!
 
 ## Miscellaneous 💡
 
-- [EZ Pantry](https://github.com/EZ-Pantry) - iOS app that helps food pantries keep track of inventory and serve students and families. Won the [2020 Congressional App Challenge!](https://www.congressionalappchallenge.us/20-IL08)
+- [EZ Pantry](https://github.com/EZ-Pantry) - An iOS app that helps food pantries keep track of inventory and serve students and families. Won the [2020 Congressional App Challenge!](https://www.congressionalappchallenge.us/20-IL08)
 
 - [Thin Lines](https://github.com/ashayp22/Thin-Lines) - Fun Graph Theory game available on the iOS app store! Create the thinnest path in a basic graph to stay alive and earn points. Made using Dijkstra's algorithm.
 
