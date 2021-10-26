@@ -6,9 +6,9 @@
 -->
 # Who am I?
 
-Greetings🖖! I am a freshman in the B.S. in Computer Science program at the University of Illinois at Urbana-Champaign. **My main passion is creating robust, appealing, and reliable software that puts smiles on people's faces.** 
+Greetings🖖! I am a first year in the B.S. in Computer Science program at the University of Illinois at Urbana-Champaign. **My main passion is creating robust, appealing, and reliable software that puts smiles on people's faces.** 
 
-I mainly work with **web development** and **artificial intelligence**, but I have also built **iOS apps**, **2D/3D games**, **bots**, and **mathematical/physics simulations**. Outside of the technical domain, I have **marketing** and **UI/UX design** experience. Currently, I am in the process of promoting [Kontest](http://kontest.us/), a live, team-based review game website.
+Currently, I work with **web and iOS app development** but I have also created **artificial intelligence**, **2D/3D games**, **bots**, and **mathematical/physics simulations**. Outside of the technical domain, I have **marketing** and **UI/UX design** experience. Currently, I am in the process of promoting [Kontest](http://kontest.us/), a live, team-based review game website.
 
 In addition to coding, I like to share my knowledge with others and inspire others to learn. I have done this by:
 
