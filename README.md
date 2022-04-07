@@ -8,7 +8,7 @@
 
 Greetings🖖! I am a student in the B.S. in Computer Science program at the University of Illinois at Urbana-Champaign. **My main passion is creating robust, appealing, and reliable software that puts smiles on people's faces.** 
 
-Currently, I work with **web and iOS app development** but I have also created **artificial intelligence**, **2D/3D games**, **bots**, and **mathematical/physics simulations**. Outside of the technical domain, I have **marketing** and **UI/UX design** experience. Currently, I am in the process of promoting [Kontest](http://kontest.us/), a live, team-based review game website.
+I work with **web and iOS app development** but I have also created **artificial intelligence**, **2D/3D games**, **bots**, and **mathematical/physics simulations**. Outside of the technical domain, I have **marketing** and **UI/UX design** experience. Currently, I'm building a [mobile app](https://github.com/hack4impact-uiuc/7000-languages) that helps Indigenous communities around the world teach, learn and sustain their languages!
 
 In addition to coding, I like to share my knowledge with others and inspire others to learn. I have done this by:
 
