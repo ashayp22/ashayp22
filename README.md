@@ -8,17 +8,19 @@
 
 Greetings🖖! I am a student in the B.S. in Computer Science program at the University of Illinois at Urbana-Champaign. **My main passion is creating robust, appealing, and reliable software that puts smiles on people's faces.** 
 
-I work with **web and iOS app development** but I have also created **artificial intelligence**, **2D/3D games**, **bots**, and **mathematical/physics simulations**. Outside of the technical domain, I have **marketing** and **UI/UX design** experience. Currently, I'm building a [mobile app](https://github.com/hack4impact-uiuc/7000-languages) that helps Indigenous communities around the world teach, learn and sustain their languages!
-
-In addition to coding, I like to share my knowledge with others and inspire others to learn. I have done this by:
-
-* teaching🏫 [computer science at my school](https://compscikids.net/)
-* helping organize and lead hackathons💻 - [Teens Take On COVID](https://teens-take-on-covid.devpost.com/) & [Code211](https://code211.org/)
-* posting educational content🧮 with 10k+ views on [Medium](https://medium.com/@ashayp22) and [YouTube](https://www.youtube.com/channel/UCC-lrzuSt77LJjqa7bOCYjw)
+I work with **web and iOS app development** but I have also created **artificial intelligence**, **2D/3D games**, **bots**, and **mathematical/physics simulations**. Outside of the technical domain, I have **marketing** and **UI/UX design** experience.
 
 # Featured Projects
 
 Some of the projects that I am most proud of!
+
+## Social Impact
+
+- [7000 Languages](https://github.com/hack4impact-uiuc/7000-languages) - A mobile application that allows Indigenous communities to develop language learning courses by themselves and learn in published language learning courses.
+ 
+- [3DP4ME](https://uiuc.hack4impact.org/projects/3dp4me) - A website that centralizes 3DP4ME's patient management workflows through a modular dashboard.
+
+- [Open Climate Fix](https://github.com/openclimatefix/pv-sites-mobile) - A frontend web app for solar panel site-level forecasting.
 
 ## Machine Learning, Deep Learning, Computer Vision 🧠
 
