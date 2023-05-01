@@ -8,7 +8,7 @@
 
 Greetings🖖! I am a student in the B.S. in Computer Science program at the University of Illinois at Urbana-Champaign. **My main passion is creating robust, appealing, and reliable software that puts smiles on people's faces.** 
 
-I work with **web and iOS app development** but I have also created **artificial intelligence**, **2D/3D games**, **bots**, and **mathematical/physics simulations**. Outside of the technical domain, I have **marketing** and **UI/UX design** experience. Recently, I've been contributing to [HackIllinois](https://github.com/HackIllinois), [Open Climte Fix](https://github.com/openclimatefix), and [Hack4Impact](https://github.com/hack4impact-uiuc).
+I work with **web and iOS app development** but I have also created **artificial intelligence**, **2D/3D games**, **bots**, and **mathematical/physics simulations**. Outside of the technical domain, I have **marketing** and **UI/UX design** experience. Recently, I've been contributing to [HackIllinois](https://github.com/HackIllinois), [Open Climate Fix](https://github.com/openclimatefix), and [Hack4Impact](https://github.com/hack4impact-uiuc).
 
 # Featured Projects
 
